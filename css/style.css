@@ -7,3 +7,7 @@
         font-size: 7px;
     }
 }
+
+.grid {
+    display: flex;
+}
